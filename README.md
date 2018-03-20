@@ -1,0 +1,2 @@
+# Assignment2_FavoriteComponent
+Favorite component exercice
